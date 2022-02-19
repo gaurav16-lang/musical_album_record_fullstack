@@ -1,0 +1,13 @@
+.bigdiv {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 30%);
+  gap: 5%;
+}
+
+.bigdiv > div {
+  margin-left: 4%;
+}
+.small {
+  width: 100%;
+}
